@@ -3,6 +3,8 @@
 This is an Auto GPT APP, especially for creating video script automatically.
 All you need to do is to input the **Topic**.
 
+![Alt text](images/demo.png "Demo Instruction")
+
 ## How to use
 
 ### Step 1: Install the requirements
