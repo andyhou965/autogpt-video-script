@@ -1,7 +1,7 @@
 # Auto GPT: Video Script Creator
 
-This is Auto GPT APP, especially for creating video script automatically.
-All you need to do is to input the Title(prompt).
+This is an Auto GPT APP, especially for creating video script automatically.
+All you need to do is to input the Title or Prompt.
 
 ## How to use
 
