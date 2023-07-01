@@ -23,12 +23,9 @@ script_template = PromptTemplate(
     template='write me a video script based on this title TITLE: {title} while leveraging this wikipedia reserch:{wikipedia_research} ',
 )
 
-# Memory
 title_memory = ConversationBufferMemory(input_key='topic', memory_key='chat_history')
 script_memory = ConversationBufferMemory(input_key='title', memory_key='chat_history')
 
-
-# Llms
 llm = OpenAI(temperature=0.9)  # type: ignore
 title_chain = LLMChain(
     llm=llm,
