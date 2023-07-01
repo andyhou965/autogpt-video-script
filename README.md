@@ -1,7 +1,7 @@
 # Auto GPT: Video Script Creator
 
 This is an Auto GPT APP, especially for creating video script automatically.
-All you need to do is to input the Title or Prompt.
+All you need to do is to input the **Topic**.
 
 ## How to use
 
@@ -19,4 +19,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Step 4: Input the title or prompt of the video you want to create script for.
+### Step 4: Input the topic of the video you want to create the script for
